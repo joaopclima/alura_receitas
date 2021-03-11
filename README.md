@@ -13,3 +13,4 @@ Nessa aula:
 - Alteramos a `url` da index, exibindo como cada receita é feita, seus ingredientes e outras informações.
 
 
+# alura_receitas
